@@ -1,0 +1,30 @@
+.bg-blue-100{
+    background-color: lightblue;
+}
+.bg-blue-500{
+    background-color: blue;
+}
+.bg-green-100{
+    background-color: lightgreen;
+}
+.bg-green-500{
+    background-color: green;
+}
+.bg-red-500{
+    background-color: red;
+}
+.text-blue-100{
+    color: lightblue;
+}
+.text-blue-500{
+    color: blue;
+}
+.text-green-100{
+    color: lightgreen;
+}
+.text-green-500{
+    color: green;
+}
+.text-red-500{
+    color: red;
+}
